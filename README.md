@@ -1,14 +1,12 @@
-![Logo](resources/img/logo.png)
-
 A full stack developer with years of experience working with start ups and businesses of all shapes and sizes
  
-## PROGRAMMING LANGUAGUES
+### PROGRAMMING LANGUAGUES
 
 * PHP 
 * JavaScript
 * Python
 
-## FRAMEWORKS AND LIBRARIES
+### FRAMEWORKS AND LIBRARIES
 
 * Laravel
 * VueJs
@@ -17,21 +15,21 @@ A full stack developer with years of experience working with start ups and busin
 * SASS
 * Symfony
 
-## DEVOPS
+### DEVOPS
 
 * Circle CI
 * Git
 * Docker
 * Kubernetes
 
-## DBMS
+### DBMS
 
 * MySQL
 * SQLite
 * Mongo DB
 * PostgreSQL
 
-## PERSONAL SKILLS 
+### PERSONAL SKILLS 
 
 * Empathy
 * Detail Oriented
@@ -44,7 +42,7 @@ A full stack developer with years of experience working with start ups and busin
 * Integrity
 * Loyalty
 
-## CORPORTATE SKILLS 
+### CORPORTATE SKILLS 
 * Team Leadership
 * R & D
 * Good Writing Skills
