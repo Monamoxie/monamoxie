@@ -13,7 +13,6 @@ A full stack developer with years of experience working with start ups and busin
 * JQuery
 * Bootstrap
 * SASS
-* Symfony
 
 ### DEVOPS
 
