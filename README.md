@@ -11,11 +11,9 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 <a href="https://github.com/Monamoxie">
  <img height=200 align="left" src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light" />
 </a>
-<a href="https://github.com/Monamoxie">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=monamoxie&langs_count=8&hide_progress=true&&hide=CSS,HTML,Blade,Dockerfile,SCSS,Procfile" />
-  </a>
 </div>
 
+## Tech Stack
 <div style="margin:30px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" title="PHP" alt="PHP" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
