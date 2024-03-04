@@ -5,7 +5,7 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 <div align="center" style="margin-bottom:30px">
 <img height=200 align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5MmZiNmxxb3phZHE1aWtucmt2ZWQzY3pjYzgzd3dhNHo1dm5tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 <div>
- <img height=200 align="left" src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light" />
+ <img height=200 align="left" src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light&card_width=700" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monamoxie&langs_count=8&hide_progress=true&&hide=CSS,HTML,Blade,Dockerfile,SCSS,Procfile" />
 </div>
