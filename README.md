@@ -32,12 +32,12 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
  ### Database Management Systems
 | MySQL   | Postgres      | MongoDB | Elastic Search |
 |----------|----------|------------|------------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgresSql" alt="PostgreSql"  width="40" height="40"/>&nbsp; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch"  width="40" height="40"/> |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgresSql" alt="PostgreSql"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch"  width="40" height="40"/> |
 
 ### Cloud Platforms 
 | AWS   | Digital Ocean   
 |----------|----------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="40" height="40"/>&nbsp; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" title="PostgresSql" alt="PostgreSql"  width="40" height="40"/>&nbsp; |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" title="PostgresSql" alt="PostgreSql"  width="40" height="40"/> |
 
    
 ### Web Servers 
@@ -49,7 +49,7 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 ### CI/CD 
 | Github Actions | Circle CI  
 |----------|----------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="40" height="40"/>&nbsp; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain-wordmark.svg" title="circleci" alt="circleci"  width="40" height="40"/>&nbsp; |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain-wordmark.svg" title="circleci" alt="circleci"  width="40" height="40"/> |
 
 ### Queues and Message Brokers
 | Kafka | RabbitMQ | Redis |
@@ -57,5 +57,8 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="kafka" alt="kafka"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="rabbitmq" alt="rabbitmq"> 
 
  
-
+ ### Infrastructure Automation
+| Terraform | Ansible
+|----------|----------|
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible"  width="40" height="40"/> |
 </div>
