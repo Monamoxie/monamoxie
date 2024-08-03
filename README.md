@@ -35,16 +35,6 @@ Each project has it's own JIRA board where I brainstorm, manage and plan feature
 ## Schedule 🌟
 I am always building and challenging myself to try something new. More projects are currently in the pipeline...
 
-
-
-
-
-![Metrics](/metrics.plugin.habits.charts.svg)
-![Metrics](/metrics.plugin.habits.facts.svg)
-
-
-
-
 ## Tech Stack 🥇
 <div>
 
@@ -132,6 +122,12 @@ I am always building and challenging myself to try something new. More projects 
 </div>
 
 <br> <br >
-<div>
+
  
-</div>
+## Say Hi 
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"  alt="Laravel" width="166" height="72"/>
+
+Found a bug, need me to work on a project, or would like to just say hi? Sure, I'm happy to hear from you too. 
+
+Reach me on <b>mona [at] monamoxie [dot] com </b>
+ 
