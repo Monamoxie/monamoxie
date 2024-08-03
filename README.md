@@ -87,20 +87,17 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
   <b>Github Actions</b>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="20" height="20"/> 
 </div>
 <hr/> 
-<br/> <br/>
+<br/> 
 
 <!-- ------------------------------------ -->
  <!-- START Project 2 -->
   ### Vocab Mapper
-  <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo.png"></a></div>
-  <div>A Python-powered open source app for managing booking appointments. 
-  It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
+  <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo-vocab-mapper.png"></a></div>
+  <div>Laravel package for multi-tenant and single tenant architectures. It grants platform owners the ability to map vocab of their core systems to the tenant's preferred terminology.
   </div>
 
 #### Built using: 🚀
 
   <div>
-  <b>Python 3</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> | <b>TypeScript </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/> | <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> | <b>Django</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django" alt="django" width="20" height="20"/> | <b>Next js</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="20" height="20"/> | <b>Rabbit MQ</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="20" height="20"/> | 
-  <b>Postgres</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgresSql" alt="PostgreSql"  width="20" height="20"/> | <b>Nginx</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx"  width="20" height="20"/> | <b>Gunicorn</b> <img src="assets/gunicorn.svg" title="apache" alt="gunicorn" width="20" height="20"/> | <b>Docker</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="20" height="20"/> | <b>ECS</b> <img src="assets/Arch_Amazon-Elastic-Container-Service_48.svg" title="ecs" alt="ecs" width="20" height="20"/> | <b>AWS Fargate, Cloudwatch etc</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="20" height="20"/> | 
-  <b>Github Actions</b>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="20" height="20"/> 
+  <b>PHP 8</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" title="PHP" alt="PHP" height="20"/> | <b>Laravel </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="20" height="20"/> |  <b>PHPUnit</b> <img src="assets/phpunit.svg" height="40" title="PHP" alt="PHP" height="10"/> | <b>Orchestra Test Bench </b> 🚀 
 </div>
