@@ -28,6 +28,8 @@ Over the last couple of years, I've worked for world-class companies, developed 
 ## Open Source Projects 🥇
 There are no "Hello world" projects here, most of the projects you'd find here were developed with a real-word use case in mind. And these projects are well documented. 
 
+![Metrics](/github-metrics.svg)
+
 Each project has it's own JIRA board where I brainstorm, manage and plan feature releases, bug fixes etc
 
 ## Schedule 🌟
