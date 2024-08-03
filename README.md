@@ -1,6 +1,21 @@
-Software Engineer specialized in developing scalable web and software platforms.
+### Hi there 👋
 
-Welcome to my playground for turning code into cool experiences, and ensuring every project tells its story.
+Welcome to my open-source playground. 
+
+On this playground, I turn code into cool experiences, and ensure every project tells its story.
+
+### About Me
+I am a full time Software Engineer specialized in developing scalable web and software platforms. 
+
+Over the last couple of years, I've worked for world-class companies, developed and managed cutting-edge platforms for prominent brands in the UK and across Europe.
+
+### Projects
+There are no Hello world projects here, these projects were developed with a real-word use case in mind. All my projects are richly documented. 
+
+Each project has it's own JIRA board where I manage and plan feature releases, bug fixes etc
+
+### Schedule
+I am always building and challenging myself to try something new. More projects are currently in the pipeline...
 
 <div align="center" style="margin-bottom:30px">
 
