@@ -63,10 +63,9 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible"  width="40" height="40"/> |
 </div>
 
-## Open Source Projects
+# Open Source Projects
 <div>
-    <style>.projects{width:100%;border-collapse:separate;border-spacing:10px 10px;}.projects td{width:49%;max-width:49%;margin:10px;box-sizing:border-box;border-radius:12px;padding-left:20px}@media (max-width:600px){.projects td{width:100%;max-width:100%}}
-</style>
+    <style>.projects{width:100%;border-collapse:separate;border-spacing:10px 10px;}.projects td{width:49%;max-width:49%;margin:10px;box-sizing:border-box;border-radius:12px;padding-left:20px}@media (max-width:600px){.projects td{width:100%;max-width:100%}}</style>
 
   <div class="projects" width="100%" max-width="1012px">
  
