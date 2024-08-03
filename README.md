@@ -72,11 +72,7 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 <br/>
 
 ## Open Source Contributions: 🥇
-<div>
-  <div class="projects" width="100%" max-width="1012px">
- 
   <!-- START Project 1 -->
-  <div>  
   <div><h2>Metton App</h2></div>
   <div><img src="assets/logo.png"></div>
   <div>A Python-powered open source app for managing booking appointments. 
@@ -85,8 +81,4 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
   <h4> Built with: </h4>
 <b>Python 3</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> | <b>TypeScript </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/> | <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> | <b>Django</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django" alt="django" width="20" height="20"/> | <b>Next js</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="20" height="20"/> | <b>Rabbit MQ</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="20" height="20"/> | <b>Postgres</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgresSql" alt="PostgreSql"  width="20" height="20"/> | <b>Nginx</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx"  width="20" height="20"/> | <b>Gunicorn</b> <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white" title="apache" alt="gunicorn" height="20"/> | <b>Docker</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="20" height="20"/> | <b>ECS</b> <img src="assets/Arch_Amazon-Elastic-Container-Service_48.svg" title="docker" alt="docker" width="20" height="20"/> | <b>AWS Fargate, Cloudwatch etc</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="20" height="20"/> |  <b>Github Actions</b>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="20" height="20"/> 
 
-  </div>
-  
-  </div>
-</div>
 
