@@ -92,7 +92,7 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 <!-- ------------------------------------ -->
  <!-- START Project 2 -->
   ### Vocab Mapper
-  <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo-vocab-mapper.png"></a></div>
+  <div><a href="https://github.com/Monamoxie/vocab-mapper" target="_blank"><img src="assets/logo-vocab-mapper.png"></a></div>
   <div>Laravel package for multi-tenant and single tenant architectures. It grants platform owners the ability to map vocab of their core systems to the tenant's preferred terminology.
   </div>
 
