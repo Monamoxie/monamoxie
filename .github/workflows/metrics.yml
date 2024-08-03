@@ -15,16 +15,16 @@ jobs:
       contents: write
     steps:
       - name: ISO Calender
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      
-      - name: Star gazing
-      - uses: lowlighter/metrics@latest
+
+      - name: Using classic charts
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
