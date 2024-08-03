@@ -79,7 +79,7 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
   It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
   </div>
 
-##### Built using 🚀: 
+#### Built using: 🚀
 
   <div>
   <b>Python 3</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> | <b>TypeScript </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/> | <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> | <b>Django</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django" alt="django" width="20" height="20"/> | <b>Next js</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="20" height="20"/> | <b>Rabbit MQ</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="20" height="20"/> | 
