@@ -2,7 +2,7 @@
 
 Welcome to my open-source playground. 
 
-On this playground, I turn code into cool experiences, and ensure every project tells its story.
+On this playground, I turn code into cool experiences and ensure every project tells its story.
 
 <div align="center" style="margin-bottom:30px">
 
@@ -34,6 +34,16 @@ Each project has it's own JIRA board where I brainstorm, manage and plan feature
 
 ## Schedule 🌟
 I am always building and challenging myself to try something new. More projects are currently in the pipeline...
+
+
+
+
+
+![Metrics](/metrics.plugin.habits.charts.svg)
+![Metrics](/metrics.plugin.habits.facts.svg)
+
+
+
 
 ## Tech Stack 🥇
 <div>
