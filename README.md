@@ -12,7 +12,7 @@ Over the last couple of years, I've worked for world-class companies, developed 
 ### Projects
 There are no Hello world projects here, these projects were developed with a real-word use case in mind. All my projects are richly documented. 
 
-Each project has it's own JIRA board where I manage and plan feature releases, bug fixes etc
+Each project has it's own JIRA board where I brainstorm, manage and plan feature releases, bug fixes etc
 
 ### Schedule
 I am always building and challenging myself to try something new. More projects are currently in the pipeline...
