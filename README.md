@@ -28,9 +28,9 @@ Over the last couple of years, I've worked for world-class companies, developed 
 ## Open Source Projects 🥇
 There are no "Hello world" projects here, most of the projects you'd find here were developed with a real-word use case in mind. And these projects are well documented. 
 
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
 Each project has it's own JIRA board where I brainstorm, manage and plan feature releases, bug fixes etc
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ## Schedule 🌟
 I am always building and challenging myself to try something new. More projects are currently in the pipeline...
