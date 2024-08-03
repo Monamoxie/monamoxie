@@ -62,3 +62,51 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 |----------|----------|
 |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible"  width="40" height="40"/> |
 </div>
+
+## Open Source Projects
+<div class="table-devenvironment">
+    <style>.projects{width:100%;border-collapse:separate;border-spacing:10px 10px;}.projects td{width:49%;max-width:49%;margin:10px;box-sizing:border-box;border-radius:12px;padding-left:20px}@media (max-width:600px){.projects td{width:100%;max-width:100%}}
+</style>
+
+  <table class="projects">
+  <tr>
+  <!-- START Project 1 -->
+  <td>
+  
+  <div><h2>Metton App</h2></div>
+  <div><img src="assets/logo.png"></div>
+  <div>A Python-powered open source app for managing booking appointments. 
+  It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
+  </div>
+  <h6> Built Using: </h6>
+    <!-- **Python**   -->
+    <!-- | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> | -->
+     ### Infrastructure Automation
+| Terraform | Ansible
+|----------|----------|
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> |
+
+  </td>
+  
+
+  <!-- START Project 1 -->
+  
+  <td>
+  <div><h2>Metton App</h2></div>
+  <div><img src="assets/logo.png"></div>
+  <div>A Python-powered open source app for managing booking appointments. 
+  It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
+  </div>
+  <h6> Built Using: </h6>
+    <!-- **Python**   -->
+    <!-- | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> | -->
+     ### Infrastructure Automation
+| Terraform | Ansible
+|----------|----------|
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> |
+
+  </td>
+   
+  </tr>
+  </table>
+</div>
