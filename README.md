@@ -26,7 +26,7 @@ Over the last couple of years, I've worked for world-class companies, developed 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Open Source Projects 🥇
-There are no Hello world projects here, these projects were developed with a real-word use case in mind. All my projects are richly documented. 
+There are no "Hello world" projects here, most of the projects you'd find here were developed with a real-word use case in mind. And these projects are well documented. 
 
 Each project has it's own JIRA board where I brainstorm, manage and plan feature releases, bug fixes etc
 
@@ -88,7 +88,7 @@ I am always building and challenging myself to try something new. More projects 
 
 <br/>
 
-## Most Recent Open Source Contributions: 🥇
+# Most Recent Open Source Contributions: 🥇
   <!-- START Project 1 -->
  ### Metton App
   <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo.png"></a></div>
