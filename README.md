@@ -73,7 +73,7 @@ Welcome to my playground for turning code into cool experiences, and ensuring ev
 
 ## Most Recent Open Source Contributions: 🥇
   <!-- START Project 1 -->
-  <div><h2>Metton App</h2></div>
+ ### Metton App
   <div><img src="assets/logo.png"></div>
   <div>A Python-powered open source app for managing booking appointments. 
   It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
