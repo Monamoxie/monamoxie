@@ -23,7 +23,7 @@ I am a full time Software Engineer specialized in developing scalable web and so
 Over the last couple of years, I've worked for world-class companies, developed and managed cutting-edge platforms for prominent brands in the UK and across Europe.
 
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Open Source Projects 🥇
 There are no Hello world projects here, these projects were developed with a real-word use case in mind. All my projects are richly documented. 
