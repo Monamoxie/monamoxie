@@ -90,7 +90,7 @@ I am always building and challenging myself to try something new. More projects 
 
 <br/>
 
-# Recent OSS Projects: 🥇
+## Ongoing OSS Projects: 🥇
   <!-- START Project 1 -->
  ### Metton App
   <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo.png"></a></div>
