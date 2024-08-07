@@ -106,7 +106,6 @@ I am always building and challenging myself to try something new. More projects 
   <b>Github Actions</b>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="20" height="20"/> 
 </div>
 <hr/> 
-<br/> 
 
 <!-- ------------------------------------ -->
  <!-- START Project 2 -->
@@ -120,7 +119,7 @@ I am always building and challenging myself to try something new. More projects 
   <div>
   <b>PHP 8</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" title="PHP" alt="PHP" /> | <b>Laravel </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="20" height="20"/> |  <b>PHPUnit</b> <img src="assets/phpunit.svg" height="20" title="PHP" alt="PHP" height="10"/> | <b>Orchestra Test Bench </b> 🚀 
 </div>
-<br/> </br/>
+<hr/> 
 
 <!-- ------------------------------------ -->
  <!-- START Project 3 -->
