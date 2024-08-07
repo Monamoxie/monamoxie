@@ -73,7 +73,7 @@ I am always building and challenging myself to try something new. More projects 
 ### Queues and Message Brokers
 | Kafka | RabbitMQ | Redis |
 |----------|-------|-------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="kafka" alt="kafka"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="rabbitmq" alt="rabbitmq"> 
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="kafka" alt="kafka"  width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="rabbitmq" alt="redis"> 
 
  
 ### Infrastructure Automation
@@ -98,7 +98,7 @@ I am always building and challenging myself to try something new. More projects 
   It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
   </div>
 
-#### Built using: 🚀
+<h6> Built using: 🚀 </h6>
 
   <div>
   <b>Python 3</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> | <b>TypeScript </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/> | <b>React</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> | <b>Django</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django" alt="django" width="20" height="20"/> | <b>Next js</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="20" height="20"/> | <b>Rabbit MQ</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="20" height="20"/> | 
@@ -115,10 +115,24 @@ I am always building and challenging myself to try something new. More projects 
   <div>Laravel package for multi-tenant and single tenant architectures. It grants platform owners the ability to map vocab of their core systems to the tenant's preferred terminology.
   </div>
 
-#### Built using: 🚀
+  <h6> Built using: 🚀 </h6>
 
   <div>
-  <b>PHP 8</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" title="PHP" alt="PHP" height="20"/> | <b>Laravel </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="20" height="20"/> |  <b>PHPUnit</b> <img src="assets/phpunit.svg" height="40" title="PHP" alt="PHP" height="10"/> | <b>Orchestra Test Bench </b> 🚀 
+  <b>PHP 8</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" title="PHP" alt="PHP" /> | <b>Laravel </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="20" height="20"/> |  <b>PHPUnit</b> <img src="assets/phpunit.svg" height="20" title="PHP" alt="PHP" height="10"/> | <b>Orchestra Test Bench </b> 🚀 
+</div>
+<br/> </br/>
+
+<!-- ------------------------------------ -->
+ <!-- START Project 3 -->
+  ### Flash Card
+  <div><a href="https://github.com/Monamoxie/flash-card" target="_blank"><img src="assets/logo-flash-card.png"></a></div>
+  <div>A powerful command line application for managing and practicing flash cards. Written in PHP with CLI authentication capabilities, it is portable, fully dockerised and easy to setup.
+  </div>
+
+  <h6> Built using: 🚀 </h6>
+
+  <div>
+  <b>PHP 8</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="30"/> | <b>Laravel </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="20" height="20"/> | <b> Redis </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="rabbitmq" alt="redis"  width="20" height="20" /> |  <b>PHPUnit</b> <img src="assets/phpunit.svg" height="20" title="PHPUnit" alt="PHPUnit" height="10"/> |   <b>Docker</b> <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="docker" alt="docker" width="20" height="20"/> | <b> MySQL </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql"  width="20" height="20" /> | <b> Nginx </b> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" title="nginx" alt="nginx"  width="20" height="20"/>
 </div>
 
 <br> <br >
