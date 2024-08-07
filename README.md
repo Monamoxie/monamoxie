@@ -90,7 +90,7 @@ I am always building and challenging myself to try something new. More projects 
 
 <br/>
 
-# Most Recent Open Source Contributions: 🥇
+# Recent OSS Projects: 🥇
   <!-- START Project 1 -->
  ### Metton App
   <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo.png"></a></div>
@@ -133,7 +133,7 @@ I am always building and challenging myself to try something new. More projects 
   <div>
   <b>PHP 8</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="30"/> | <b>Laravel </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="20" height="20"/> | <b> Redis </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="rabbitmq" alt="redis"  width="20" height="20" /> |  <b>PHPUnit</b> <img src="assets/phpunit.svg" height="20" title="PHPUnit" alt="PHPUnit" height="10"/> |   <b>Docker</b> <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="docker" alt="docker" width="20" height="20"/> | <b> MySQL </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql"  width="20" height="20" /> | <b> Nginx </b> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" title="nginx" alt="nginx"  width="20" height="20"/>
 </div>
-
+<hr/> 
 <br> <br >
 
  
