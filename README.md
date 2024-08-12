@@ -125,7 +125,7 @@ I am always building and challenging myself to try something new. More projects 
  <!-- START Project 3 -->
   ### Flash Card 
   <div><a href="https://github.com/Monamoxie/flash-card" target="_blank"><img src="assets/logo-flash-card.png"></a></div>
-  <div>A powerful command line application for managing and practicing flash cards. Written in PHP with CLI authentication capabilities, it is portable, fully dockerised and easy to setup.
+  <div>A powerful command line application for managing and practicing flash cards. Written in PHP with CLI authentication capabilities, it is portable, fully containerised and easy to setup.
   </div>
 
   <h6> Built using: 🚀 </h6>
