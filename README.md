@@ -92,7 +92,7 @@ I am always building and challenging myself to try something new. More projects 
 
 ## Ongoing OSS Projects: 🥇
   <!-- START Project 1 -->
- ## Metton App
+ ### Metton App
   <div><a href="https://github.com/Monamoxie/metton-app" target="_blank"><img src="assets/logo.png"></a></div>
   <div>A Python-powered open source app for managing booking appointments. 
   It grants users and enterprises the ability to receive instant notifications, manage calendar and adapt schedules on-the-go.
@@ -109,7 +109,7 @@ I am always building and challenging myself to try something new. More projects 
 
 <!-- ------------------------------------ -->
  <!-- START Project 2 -->
-  ## Vocab Mapper
+  ### Vocab Mapper
   <div><a href="https://github.com/Monamoxie/vocab-mapper" target="_blank"><img src="assets/logo-vocab-mapper.png"></a></div>
   <div>Laravel package for multi-tenant and single tenant architectures. It grants platform owners the ability to map vocab of their core systems to the tenant's preferred terminology.
   </div>
@@ -123,7 +123,7 @@ I am always building and challenging myself to try something new. More projects 
 
 <!-- ------------------------------------ -->
  <!-- START Project 3 -->
-  ## Flash Card 
+  ### Flash Card 
   <div><a href="https://github.com/Monamoxie/flash-card" target="_blank"><img src="assets/logo-flash-card.png"></a></div>
   <div>A powerful command line application for managing and practicing flash cards. Written in PHP with CLI authentication capabilities, it is portable, fully dockerised and easy to setup.
   </div>
@@ -138,7 +138,7 @@ I am always building and challenging myself to try something new. More projects 
 
  
 ## Say Hi 
-<img src="assets/handshake.gif"  alt="Laravel" width="166" height="72"/>
+<img src="assets/handshake.gif"  alt="handshake" width="166" height="72"/>
 
 Found a bug, need me to work on a project, or would like to just say hi? Sure, I'm happy to hear from you too. 
 
