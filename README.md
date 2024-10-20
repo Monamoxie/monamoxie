@@ -45,7 +45,7 @@ I am always building and challenging myself to try something new. More projects 
 
 ### Frameworks and Libraries:
 | Laravel   | Django      | React | Vue | Nuxt | Next | Flask |
-|----------|----------|------------|------------|------| ----| ---|---|
+|----------|----------|------------|------------|------| ----| ---|
 |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" />  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs"   width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/> | 
 
  ### Database Management Systems
