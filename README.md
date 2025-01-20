@@ -129,9 +129,8 @@ I am always building and challenging myself to try something new. More projects 
   </div>
 
 <h6> Built using: 🚀 </h6>
-<b>JavaScript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/> 
-  <div>
-  
+<div>
+<b>JavaScript</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Laravel" width="20" height="20"/> 
 </div>
 <hr/> 
 
