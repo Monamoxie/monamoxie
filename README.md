@@ -129,14 +129,14 @@ I am always building and challenging myself to try something new. More projects 
   </div>
 
 <h6> Built using: 🚀 </h6>
-<b>JavaScript </b> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+<b>JavaScript </b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <div>
   
 </div>
 <hr/> 
 
 <!-- ------------------------------------ -->
- <!-- START Project 3 -->
+ <!-- START Project 4 -->
   ### Flash Card 
   <div><a href="https://github.com/Monamoxie/optic-js" target="_blank"><img src="assets/logo-flash-card.png"></a></div>
   <div>A powerful command line application for managing and practicing flash cards. Written in PHP with CLI authentication capabilities, it is portable, fully containerised and easy to setup.
