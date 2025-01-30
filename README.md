@@ -11,9 +11,11 @@ On this playground, I turn code into cool experiences and ensure every project t
 </a>
 
 <a href="https://github.com/Monamoxie">
- <img height=200 align="left" src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light" />
+ <img height=200 align="left"  src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light2" alt="GitHub Streak" />
 </a>
+<a href="https://git.io/streak-stats"></a>
 </div>
+
 <br/> 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMonamoxie"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMonamoxie&labelColor=%23bbaa66&countColor=%23263759" /></a>
 
