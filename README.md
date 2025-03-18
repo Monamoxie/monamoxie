@@ -29,9 +29,6 @@ Each project has it's own JIRA board where I brainstorm, manage and plan feature
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
-## Schedule 🌟
-I am always building and challenging myself to try something new. More projects are currently in the pipeline...
-
 ## Tech Stack 🥇
 <div>
 
