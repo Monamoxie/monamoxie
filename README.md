@@ -1,9 +1,6 @@
 ## There's always a better life 💫
 
 Hi there 👋, <br />
-Welcome to my open-source playground. 
-
-On this playground, I turn code into cool experiences and ensure every project tells its story.
 
 <div align="center" style="margin-bottom:30px">
 
