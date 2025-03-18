@@ -1,7 +1,5 @@
 ## There's always a better life 💫
 
-Hi there 👋, <br />
-
 <div align="center" style="margin-bottom:30px">
 
 <a href="https://github.com/Monamoxie">
