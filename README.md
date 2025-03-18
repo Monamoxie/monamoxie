@@ -15,7 +15,7 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMonamoxie"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMonamoxie&labelColor=%23bbaa66&countColor=%23263759" /></a>
 
 ## About Me
-I am a full time Software Engineer specialized in developing scalable web and software platforms. 
+Software/Test Engineer specialized in developing scalable web and software platforms. 
 
 Over the last couple of years, I've worked for world-class companies, developed and managed cutting-edge platforms for prominent brands in the UK and across Europe.
 
