@@ -1,8 +1,4 @@
-## Hi there 👋
-
-Welcome to my open-source playground. 
-
-On this playground, I turn code into cool experiences and ensure every project tells its story.
+## There's always a better life 💫
 
 <div align="center" style="margin-bottom:30px">
 
@@ -19,7 +15,10 @@ On this playground, I turn code into cool experiences and ensure every project t
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMonamoxie"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMonamoxie&labelColor=%23bbaa66&countColor=%23263759" /></a>
 
 ## About Me
-Full time Software and Test Engineer specialized in developing scalable web and software platforms. 
+Software/Test Engineer specialized in developing scalable web and software platforms. 
+
+Over the last couple of years, I've worked for world-class companies, developed and managed cutting-edge platforms for prominent brands in the UK and across Europe.
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
