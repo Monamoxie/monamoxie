@@ -15,7 +15,7 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMonamoxie"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMonamoxie&labelColor=%23bbaa66&countColor=%23263759" /></a>
 
 ## About Me
-Software/Test Engineer specialized in developing scalable web and software platforms. 
+Software and Test Engineer specialized in developing scalable web and software platforms. 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
