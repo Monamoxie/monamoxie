@@ -17,9 +17,6 @@
 ## About Me
 Software/Test Engineer specialized in developing scalable web and software platforms. 
 
-Over the last couple of years, I've worked for world-class companies, developed and managed cutting-edge platforms for prominent brands in the UK and across Europe.
-
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Open Source Projects 🥇
