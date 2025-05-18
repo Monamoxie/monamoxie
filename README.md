@@ -19,22 +19,14 @@ On this playground, I turn code into cool experiences and ensure every project t
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMonamoxie"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMonamoxie&labelColor=%23bbaa66&countColor=%23263759" /></a>
 
 ## About Me
-I am a full time Software Engineer specialized in developing scalable web and software platforms. 
-
-Over the last couple of years, I've worked for world-class companies, developed and managed cutting-edge platforms for prominent brands in the UK and across Europe.
-
+Full time Software and Test Engineer specialized in developing scalable web and software platforms. 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Open Source Projects 🥇
-There are no "Hello world" projects here, most of the projects you'd find here were developed with a real-word use case in mind. And these projects are well documented. 
-
-Each project has it's own JIRA board where I brainstorm, manage and plan feature releases, bug fixes etc
+Passionate about open source projects and enjoy trying new things.
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
-## Schedule 🌟
-I am always building and challenging myself to try something new. More projects are currently in the pipeline...
 
 ## Tech Stack 🥇
 <div>
