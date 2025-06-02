@@ -20,7 +20,7 @@ Software and Test Engineer specialized in developing scalable web and software p
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Open Source Projects 🥇
-Passionate about open source projects and enjoy trying new things.
+Passionate about open source projects. I enjoy trying new things.
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
