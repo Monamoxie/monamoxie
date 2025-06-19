@@ -142,7 +142,7 @@ Passionate about open source projects. I enjoy trying new things.
 ## Say Hi 
 <img src="assets/handshake.gif"  alt="handshake" width="166" height="72"/>
 
-Found a bug, need me to work on a project, or would like to just say hi? Sure, I'm happy to hear from you too. 
+Found a bug, need me to work on a project, or like to say hi? Sure, I'm happy to hear from you too. 
 
 Reach me on <b>mona [at] monamoxie [dot] com </b>
  
