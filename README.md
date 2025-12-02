@@ -6,6 +6,11 @@
 <img height=200 align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5MmZiNmxxb3phZHE1aWtucmt2ZWQzY3pjYzgzd3dhNHo1dm5tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </a>
 
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+
+<!-- <a href="https://github.com/Monamoxie">
+<img src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light2" alt="GitHub Streak" /></a> -->
+
 <a href="https://github.com/Monamoxie">
  <img height=200 align="left" src="https://streak-stats.demolab.com?user=monamoxie&theme=whatsapp-light2" alt="GitHub Streak" />
 </a>
@@ -20,9 +25,7 @@ Software and Test Engineer specialized in developing scalable web and software p
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Open Source Projects 🥇
-Passionate about open source projects. I enjoy trying new things.
-
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+<!-- Passionate about open source projects. I enjoy trying new things. -->
 
 ## Tech Stack 🥇
 <div>
